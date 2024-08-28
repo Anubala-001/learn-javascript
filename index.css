@@ -1,0 +1,14 @@
+h1{
+    background-color: yellow;
+}
+#img{
+    height: 500px;
+}
+#btn{
+    background-color: #9ee9f0;
+    border: 1px solid #869aff;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  
+}
